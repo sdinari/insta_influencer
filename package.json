@@ -34,13 +34,13 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/sdinari/insta_influencer"
   },
   "keywords": [],
   "author": "S. DINARI",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sdinari/my_package/issues"
+    "url": "https://github.com/sdinari/insta_influencer/issues"
   },
-  "homepage": "https://github.com/sdinari/my_package"
+  "homepage": "https://github.com/sdinari/insta_influencer"
 }
